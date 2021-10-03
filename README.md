@@ -1,6 +1,6 @@
 ### Hi there ! I am Shalmali. :)
 
-Profile views : ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shalmaliiii&label=Profile%20views&color=0e75b6&style=flat" alt="shalmaliiii" /> </p>
 
 - 🔭 I’m currently working on developing my Web Developement skills.
 - 🌱 I’m currently learning Machine Learning.
