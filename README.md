@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on developing my Web Developement skills.
 - 🌱 I’m currently learning Machine Learning.
-- 👽 I'm pretty versed in Competitive Programming.
+- 👽 One of my top skill is Competitive Programming.
 - 📫 How to reach me: Shalmali Bhalerao {LinkedIn} 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i have no fun fact ;)
